@@ -19,6 +19,7 @@ import Contact from "./components/home/Contact";
 import Footer from "./components/layouts/Footer";
 import WhatsAppButton from "./components/common/WhatsAppButton";
 import ScrollToTop from "./components/common/ScrollToTop";
+import Schema from "./components/SEO/Schema";
 
 function App() {
   useEffect(() => {
@@ -32,6 +33,7 @@ function App() {
 
   return (
     <>
+       <Schema />
       <Navbar />
 
       <Hero />
