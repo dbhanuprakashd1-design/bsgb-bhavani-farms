@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+User-agent: *
+Allow: /
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://bsgb-bhavani-farms.vercel.app/</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-</urlset>
+Sitemap: https://bsgb-bhavani-farms.vercel.app/sitemap.xml
